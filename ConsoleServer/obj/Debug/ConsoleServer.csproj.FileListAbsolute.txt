@@ -1,0 +1,14 @@
+G:\My Drive\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+G:\My Drive\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe
+G:\My Drive\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.pdb
+G:\My Drive\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.csprojAssemblyReference.cache
+G:\My Drive\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.csproj.CoreCompileInputs.cache
+G:\My Drive\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.exe
+G:\My Drive\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.pdb
+G:\Min enhet\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+G:\Min enhet\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.exe
+G:\Min enhet\ConsoleServer\ConsoleServer\bin\Debug\ConsoleServer.pdb
+G:\Min enhet\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.csprojAssemblyReference.cache
+G:\Min enhet\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.csproj.CoreCompileInputs.cache
+G:\Min enhet\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.exe
+G:\Min enhet\ConsoleServer\ConsoleServer\obj\Debug\ConsoleServer.pdb
